@@ -2,7 +2,13 @@
 	"name" : "IRCAM 2017",
 	"type" : "filelist",
 	"contents" : [
+		"irc.effectsreceive.maxsnip",
+		"irc.effectssend.maxsnip",
 		"irc.keymidi.maxsnip",
+		"irc.masterout.maxsnip",
+		"irc.mastersend.maxsnip",
+		"irc.midiin.maxsnip",
+		"irc.midimap.maxsnip",
 		"irc.plot.maxsnip"
 	]
 }
