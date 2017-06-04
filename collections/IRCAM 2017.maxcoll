@@ -1,5 +1,8 @@
 {
 	"name" : "IRCAM 2017",
 	"type" : "filelist",
-	"contents" : [ "irc.plot.maxsnip" ]
+	"contents" : [
+		"irc.keymidi.maxsnip",
+		"irc.plot.maxsnip"
+	]
 }

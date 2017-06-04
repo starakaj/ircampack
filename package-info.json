@@ -12,17 +12,38 @@
 	"os" : 	{
 		"macintosh" : 		{
 			"platform" : [ "ia32", "x64" ],
-			"min_version" : "none"
+			"min_version" : "10.7.x"
 		}
 ,
 		"windows" : 		{
 			"platform" : [ "ia32", "x64" ],
-			"min_version" : "none"
+			"min_version" : "7"
 		}
+
+	}
+,
+	"package_extra" : 	{
 
 	}
 ,
 	"tags" : [  ],
 	"version" : "1.0.0",
-	"website" : "http://www.girlfriends.site"
+	"website" : "http://www.girlfriends.site",
+	"filelist" : 	{
+		"examples" : [ ],
+		"patchers" : [
+			"L01_A_Cool_Patch_For_Cool_People.maxpat",
+			"L01_whats_wrong_01.maxpat",
+			"L01_whats_wrong_02.maxpat",
+			"L02_Adding_Bits.maxpat",
+			"patterns-1.maxpat",
+			"patterns-2.maxpat",
+			"patterns-3.maxpat",
+			"polysamp.maxpat"
+		],
+		"media" : [
+		],
+		"misc" : [ ],
+		"extras" : [ ]
+	}
 }
