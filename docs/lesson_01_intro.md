@@ -55,7 +55,7 @@ Let’s bring up the inspector to fix this scope~ object so that we can actually
  
 I hope this isn’t too confusing, but [scope~] isn’t the only object that you can use to view DSP. There’s also an object called [plot~], which is much more modern and much more complicated. Fortunately for you, I’ve made a snippet that should make it easier to use. In the left menu of the patcher window you should see a little paperclip. You can click on this, then on IRCAM 2017, to see all the snippets in the IRCAM 2017 package. There’s one called irc.plot that includes a [plot~] object configured to display audio. You can use it just like a [scope~] object
  
-## Controlling Objects
+## Controling Objects
   
 K, now let’s change frequency. Press ‘f’ to make a floating point number box. This is different from an integer number box in that it displays numbers with decimals. As you click and drag up you’ll notice that pitch changes. Cool.
 
